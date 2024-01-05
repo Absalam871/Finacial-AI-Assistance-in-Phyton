@@ -1,0 +1,51 @@
+{
+    "intent": [
+        {"tag": "greetings",
+        "patterns": ["Hey", "Hello", "What's up", "Good day", "Greeting", "Hi"],
+        "response": ["Welcome", "Hello Sir", "Hello"]
+        } 
+    ]
+}
+
+
+    {
+            "tag": "Plot_chart",
+            "patterns": [],
+            "response": []
+    },
+    {
+        "tag": "add_portfolio",
+            "patterns": [],
+            "response": []
+    }
+    {
+        "tag": "remove_portfolio",
+            "patterns": [],
+            "response": []
+    }
+    {
+        "tag": "Show_portfolio",
+            "patterns": [],
+            "response": []
+    }
+    {
+        "tag": "stock_price",
+            "patterns": [],
+            "response": []
+    }
+    {
+        "tag": "Portfolio_worth",
+            "patterns": [],
+            "response": []
+    }
+    {
+        "tag": "Portfolio_gains",
+            "patterns": [],
+            "response": []
+    }
+    {
+        "tag": "bye",
+            "patterns": [],
+            "response": []
+    }
+    
